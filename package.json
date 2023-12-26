@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mwmar23/timeapp#readme",
   "dependencies": {
-    "moment": "^2.29.4"
+    "moment": "^2.30.0"
   }
 }
